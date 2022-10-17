@@ -1,0 +1,21 @@
+.SearchInput__input {
+  height: 32px;
+  border-radius: 12px;
+  padding: 2px 8px;
+  border: 1px solid black;
+  font-weight: 600;
+  width: 234px;
+}
+
+.SearchInput {
+  margin-bottom: 0.25rem;
+}
+
+.Suggestion ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+  width: 234px;
+  position: absolute;
+}
